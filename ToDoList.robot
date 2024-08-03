@@ -71,8 +71,5 @@ TC_005 Delete completed task
 
 TC_006 Do not Add task
     Verify the system will not add task when not clicking on "+" button
-<<<<<<< HEAD
                   
-=======
                   
->>>>>>> d11fa9450cb5376e485dfac9c0711d0794976ef9
