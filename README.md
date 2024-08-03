@@ -13,4 +13,5 @@ Can check the complete tasks when clicking on the item area above the delete but
 
 -------------------------------------------------------------------------------------
 
-The data will not disappear when refresh the page
+The data will not disappear when reloading the page
+The data will not disappear when close and open the link again
